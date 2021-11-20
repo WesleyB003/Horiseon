@@ -1,5 +1,7 @@
 # Horiseon
 
+Hiriseon is a company
+
 https://github.com/WesleyB003/Horiseon.git
 
-![image](https://user-images.githubusercontent.com/75219917/142731439-34f68e1b-ec71-4355-bc07-ec6a96b7ce77.png)
+![image](https://user-images.githubusercontent.com/75219917/142731513-021e2b4c-4a21-4634-968c-7e06e7425263.png)
