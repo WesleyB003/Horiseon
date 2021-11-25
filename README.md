@@ -1,6 +1,6 @@
 # Horiseon
 
-Hiriseon is a company
+Horiseon is a company
 
 https://github.com/WesleyB003/Horiseon.git
 
